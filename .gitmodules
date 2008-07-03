@@ -16,3 +16,6 @@
 [submodule "Bundles/Merb.tmbundle"]
 	path = Bundles/Merb.tmbundle
 	url = git://github.com/drnic/merb-tmbundle.git
+[submodule "Bundles/rubycocoa.tmbundle"]
+	path = Bundles/rubycocoa.tmbundle
+	url = git://github.com/drnic/rubycocoa-tmbundle.git
