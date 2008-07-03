@@ -19,3 +19,6 @@
 [submodule "Bundles/rubycocoa.tmbundle"]
 	path = Bundles/rubycocoa.tmbundle
 	url = git://github.com/drnic/rubycocoa-tmbundle.git
+[submodule "Bundles/datamapper.tmbundle"]
+	path = Bundles/datamapper.tmbundle
+	url = git@github.com:AdulteratedJedi/datamapper-tmbundle.git
