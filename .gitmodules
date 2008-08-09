@@ -25,3 +25,6 @@
 [submodule "Bundles/Ruby Haml.tmbundle"]
 	path = Bundles/Ruby Haml.tmbundle
 	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
+[submodule "Bundles/Ack.tmbundle"]
+	path = Bundles/Ack.tmbundle
+	url = git://github.com/protocool/ack-tmbundle.git
