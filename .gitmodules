@@ -40,3 +40,6 @@
 [submodule "Bundles/rspec-story.tmbundle"]
 	path = Bundles/rspec-story.tmbundle
 	url = git://github.com/bmabey/rspec-story-tmbundle.git
+[submodule "Bundles/tm-ctags.tmbundle"]
+	path = Bundles/tm-ctags.tmbundle
+	url = git://github.com/sbenhaim/tm-ctags-tmbundle.git
