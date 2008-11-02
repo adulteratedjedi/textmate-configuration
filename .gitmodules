@@ -43,3 +43,6 @@
 [submodule "Bundles/tm-ctags.tmbundle"]
 	path = Bundles/tm-ctags.tmbundle
 	url = git://github.com/sbenhaim/tm-ctags-tmbundle.git
+[submodule "Bundles/Ruby Saas.tmbundle"]
+	path = Bundles/Ruby Saas.tmbundle
+	url = git://github.com/seaofclouds/sass-textmate-bundle.git
